@@ -1,6 +1,6 @@
 ### Hi there, I am bily
 I live in the U.S.A and my favorite language is kotlin
-
+I also go by bily bily-101 and bily101
 - 🔭 I’m currently working on AI/MachineLearning 
 - 🌱 I’m currently learning Algorithms
 - 👯 I’m looking to collaborate on ssh communication
