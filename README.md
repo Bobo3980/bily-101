@@ -4,5 +4,5 @@
 - 🌱 Learning SDL and C++ game development
 - 📫 How to reach me: vblawing@gmail.com
 
-[![My's github stats](https://github-readme-stats.vercel.app/api?username=bily-101&theme=tokyonight)](https://github.com/bily-101)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bily-101&layout=compact)](https://github.com/bily-101)
+[![My's github stats](https://github-readme-stats.vercel.app/api?username=bily-101&theme=github_dark&&hide_border=true)](https://github.com/bily-101)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bily-101&theme=github_dark&&hide_border=true)](https://github.com/bily-101)
